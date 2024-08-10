@@ -28,9 +28,9 @@ It supports APA, MLA, Chicago, Vancouver, Harvard, IEEE, AMA, and ACS styles."""
 	# Author(s)
 	"addon_author": "Asamoah Emmanuel <emmanuelasamoah179@gmail.com>",
 	# URL for the add-on documentation support
-	"addon_url": None,
+	"addon_url": "https://github.com/jasonpython50/referenceStyler",
 	# URL for the add-on repository where the source code can be found
-	"addon_sourceURL": None,
+	"addon_sourceURL": "https://github.com/jasonpython50/referenceStyler",
 	# Documentation file name
 	"addon_docFileName": "readme.html",
 	# Minimum NVDA version supported
